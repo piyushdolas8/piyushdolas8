@@ -80,3 +80,13 @@ Currently, I'm focused on improving my skills in **Data Structures & Algorithms,
 - n8n Automation
 - System Design
 
+  ---
+
+## 🌱 Currently Working On
+
+- 🌐 Building **CRUZO** — a goal-based networking platform for students.
+- 🤖 Exploring AI applications using **Google Gemini** and **FastAPI**.
+- 💻 Strengthening **Data Structures & Algorithms** with C++.
+- 🔌 Learning more about **Embedded Systems** and **IoT** development.
+- 📚 Continuously improving through hands-on projects and open-source learning.
+
