@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Piyush Dolas</h1>
 
-<!--
-**piyushdolas8/piyushdolas8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Developer • Full-Stack Developer • Embedded Systems
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building intelligent software and embedded systems that solve real-world problems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🎓 Electronics & Computer Engineering Student • Pune, India
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/piyush-dolas-0567a6303">
+LinkedIn
+</a>
+•
+<a href="mailto:piyushdolas8@gmail.com">
+Email
+</a>
+</p>
