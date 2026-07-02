@@ -73,13 +73,7 @@ Currently, I'm focused on improving my skills in **Data Structures & Algorithms,
 - Arduino
 - IoT Sensors
 - Proteus
-
-### Currently Exploring
-- Machine Learning
-- Google Gemini API
-- n8n Automation
-- System Design
-
+  
   ---
 
 ## 🌱 Currently Working On
@@ -90,3 +84,25 @@ Currently, I'm focused on improving my skills in **Data Structures & Algorithms,
 - 🔌 Learning more about **Embedded Systems** and **IoT** development.
 - 📚 Continuously improving through hands-on projects and open-source learning.
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushdolas8&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushdolas8&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/piyush-dolas-0567a6303" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="mailto:piyushdolas8@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+</p>
