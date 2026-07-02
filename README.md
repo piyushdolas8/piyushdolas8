@@ -86,15 +86,6 @@ Currently, I'm focused on improving my skills in **Data Structures & Algorithms,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushdolas8&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushdolas8&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
