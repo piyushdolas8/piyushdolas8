@@ -39,3 +39,44 @@ I enjoy transforming ideas into practical products—from AI-powered application
 
 Currently, I'm focused on improving my skills in **Data Structures & Algorithms, System Design, Backend Development, and AI Engineering** while building projects that bridge software and hardware.
 
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,sql" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel" />
+</p>
+
+### Embedded Systems
+- ESP32
+- Arduino
+- IoT Sensors
+- Proteus
+
+### Currently Exploring
+- Machine Learning
+- Google Gemini API
+- n8n Automation
+- System Design
+
